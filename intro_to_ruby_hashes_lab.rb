@@ -1,5 +1,5 @@
 def new_hash
-new_empty_hash ={}
+new_empty_hash = {}
 new_empty_hash
 end
 
@@ -23,7 +23,7 @@ end
 def monopoly_with_third_tier
   monopoly = {
     :railroads => {
-		:pieces =>4,
+		:pieces => 4,
 		:names =>
 		{
 			:reading_railroad => {},
